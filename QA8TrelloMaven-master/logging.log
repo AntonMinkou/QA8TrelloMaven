@@ -1,0 +1,98 @@
+2021-04-23 09:12:52 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:12:53 INFO  LogLog4j:53 - Login value = was entered
+2021-04-23 09:12:54 INFO  LogLog4j:53 - Password value = pswwas entered
+2021-04-23 09:12:55 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:12:55 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:13:26 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:13:26 INFO  LogLog4j:53 - Login value = 123was entered
+2021-04-23 09:13:28 INFO  LogLog4j:53 - Password value = pswwas entered
+2021-04-23 09:13:28 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:13:28 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:13:53 INFO  LogLog4j:16 - 
+2021-04-23 09:13:53 INFO  LogLog4j:17 - 
+2021-04-23 09:13:53 INFO  LogLog4j:18 - *******************************************************************
+2021-04-23 09:13:53 INFO  LogLog4j:19 -                    Test Case: loginNegativeParametric
+2021-04-23 09:13:53 INFO  LogLog4j:20 - *******************************************************************
+2021-04-23 09:13:53 INFO  LogLog4j:21 - 
+2021-04-23 09:13:53 INFO  LogLog4j:45 - ======= Parameter 'login' =  =============
+2021-04-23 09:13:53 INFO  LogLog4j:45 - ======= Parameter 'password' = ruierw =============
+2021-04-23 09:13:53 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:13:54 INFO  LogLog4j:53 - Login value = was entered
+2021-04-23 09:13:55 INFO  LogLog4j:53 - Password value = ruierwwas entered
+2021-04-23 09:13:56 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:13:56 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:13:56 INFO  LogLog4j:53 - Not attlassian (login=, password=ruierw) were entered 
+2021-04-23 09:13:56 INFO  LogLog4j:30 - ***********************************************
+2021-04-23 09:13:56 INFO  LogLog4j:31 - ***************               -E---N---D-
+2021-04-23 09:13:56 INFO  LogLog4j:32 - ***********************************************
+2021-04-23 09:13:56 INFO  LogLog4j:33 - 
+2021-04-23 09:13:56 INFO  LogLog4j:34 - 
+2021-04-23 09:14:24 INFO  LogLog4j:16 - 
+2021-04-23 09:14:24 INFO  LogLog4j:17 - 
+2021-04-23 09:14:24 INFO  LogLog4j:18 - *******************************************************************
+2021-04-23 09:14:24 INFO  LogLog4j:19 -                    Test Case: loginNegativeParametric
+2021-04-23 09:14:24 INFO  LogLog4j:20 - *******************************************************************
+2021-04-23 09:14:24 INFO  LogLog4j:21 - 
+2021-04-23 09:14:24 INFO  LogLog4j:45 - ======= Parameter 'login' = weerrew =============
+2021-04-23 09:14:24 INFO  LogLog4j:45 - ======= Parameter 'password' = paserr =============
+2021-04-23 09:14:24 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:14:25 INFO  LogLog4j:53 - Login value = weerrewwas entered
+2021-04-23 09:14:26 INFO  LogLog4j:53 - Password value = paserrwas entered
+2021-04-23 09:14:27 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:14:27 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:14:27 INFO  LogLog4j:53 - Not attlassian (login=weerrew, password=paserr) were entered 
+2021-04-23 09:14:27 INFO  LogLog4j:30 - ***********************************************
+2021-04-23 09:14:27 INFO  LogLog4j:31 - ***************               -E---N---D-
+2021-04-23 09:14:27 INFO  LogLog4j:32 - ***********************************************
+2021-04-23 09:14:27 INFO  LogLog4j:33 - 
+2021-04-23 09:14:27 INFO  LogLog4j:34 - 
+2021-04-23 09:14:55 INFO  LogLog4j:16 - 
+2021-04-23 09:14:55 INFO  LogLog4j:17 - 
+2021-04-23 09:14:55 INFO  LogLog4j:18 - *******************************************************************
+2021-04-23 09:14:55 INFO  LogLog4j:19 -                    Test Case: loginNegativeParametric
+2021-04-23 09:14:55 INFO  LogLog4j:20 - *******************************************************************
+2021-04-23 09:14:55 INFO  LogLog4j:21 - 
+2021-04-23 09:14:55 INFO  LogLog4j:45 - ======= Parameter 'login' = wee@rrew =============
+2021-04-23 09:14:55 INFO  LogLog4j:45 - ======= Parameter 'password' = paserr =============
+2021-04-23 09:14:55 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:14:55 INFO  LogLog4j:53 - Login value = wee@rrewwas entered
+2021-04-23 09:14:57 INFO  LogLog4j:53 - Password value = paserrwas entered
+2021-04-23 09:14:58 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:14:58 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:14:58 INFO  LogLog4j:53 - Not attlassian (login=wee@rrew, password=paserr) were entered 
+2021-04-23 09:15:43 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:15:44 INFO  LogLog4j:53 - Login value = login1was entered
+2021-04-23 09:15:45 INFO  LogLog4j:53 - Password value = password1was entered
+2021-04-23 09:15:46 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:15:46 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:16:34 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:16:34 INFO  LogLog4j:53 - Login value = login2was entered
+2021-04-23 09:16:36 INFO  LogLog4j:53 - Password value = password2was entered
+2021-04-23 09:16:36 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:16:36 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:17:22 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:17:22 INFO  LogLog4j:53 - Login value = login3was entered
+2021-04-23 09:17:24 INFO  LogLog4j:53 - Password value = password3was entered
+2021-04-23 09:17:24 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:17:24 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:18:12 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:18:12 INFO  LogLog4j:53 - Login value = 3SRijskMCDwas entered
+2021-04-23 09:18:14 INFO  LogLog4j:53 - Password value = Xxswas entered
+2021-04-23 09:18:14 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:18:14 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:19:05 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:19:05 INFO  LogLog4j:53 - Login value = n0YN4g7was entered
+2021-04-23 09:19:07 INFO  LogLog4j:53 - Password value = Raelwas entered
+2021-04-23 09:19:07 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:19:07 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:32:46 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:32:47 INFO  LogLog4j:53 - Login value = login1was entered
+2021-04-23 09:32:49 INFO  LogLog4j:53 - Password value = password1was entered
+2021-04-23 09:32:49 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:32:49 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
+2021-04-23 09:35:25 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:35:49 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was started  !!!  
+2021-04-23 09:35:49 INFO  LogLog4j:53 - Login value = login3was entered
+2021-04-23 09:35:51 INFO  LogLog4j:53 - Password value = password3was entered
+2021-04-23 09:35:51 INFO  LogLog4j:53 - Click on the 'Login' button
+2021-04-23 09:35:51 INFO  LogLog4j:53 -   !!!  Method 'enterLoginPassNotAttl' was finished  !!!  
